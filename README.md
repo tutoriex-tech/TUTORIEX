@@ -25,7 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tutoriex&show_icons=true&locale=en&layout=compact" alt="tutoriex" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tutoriex&show_icons=true&locale=en" alt="tutoriex" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tutoriex&" alt="tutoriex" /></p>
 
