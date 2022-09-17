@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arijit-paria-0234261b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arijit-paria-0234261b7" height="30" width="40" /></a>
 <a href="https://instagram.com/tutoriex_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutoriex_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCtT5S9Nyrs5jQOdruFObx5w" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tutoriex" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtT5S9Nyrs5jQOdruFObx5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tutoriex" height="30" width="40" /></a>
 </p>
 
 
