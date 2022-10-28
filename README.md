@@ -36,6 +36,13 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+
+ ### 💰 You can help me by Donating
+<a href="https://p.paytm.me/xCTH/dq8b89i7" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Paytm/Paytm-Logo.wine.svg" alt="tutoriex" height="50" width="100" /></a>
+<a href="https://buymeacoffee.com/arijitparia" target="blank"><img align="center" src="https://www.logo.wine/a/logo/PayPal/PayPal-Logo.wine.svg" alt="tutoriex" height="50" width="100" /></a>
+<a href="https://buymeacoffee.com/arijitparia" target="blank"><img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="tutoriex" height="50" width="100" /></a>
+</p>
+
 ---
 
 
