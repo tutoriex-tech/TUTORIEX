@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, This is TUTORIEX</h1>
-<h3 align="center">A Youtube Channel for Tricks and Tutorials [ Created By <a href="https://instagram.com/arijitparia_" target="_blank">Arijit Paria</a> ]</h3>
+<h3 align="center">A Youtube Channel for Tricks and Tutorials [ Created By <a href="https://github.com/arijitparia2002" target="_blank">Arijit Paria</a> ]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tutoriex&label=Profile%20views&color=0e75b6&style=flat" alt="tutoriex" /> </p>
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [HitbullsEye Automation](https://github.com/TUTORIEX/Hitbullseye_automation)
+- 🔭 I’m currently working on [Tutoriex WatchList - NextJS Blog](https://watch.tutoriex.com)
 
 - 🌱 I’m currently learning **TensorFlow & Firebase**
 
